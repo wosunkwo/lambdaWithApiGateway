@@ -12,7 +12,7 @@ your query parameter must be = "sentence" i.e. https://iv7qth009d.execute-api.us
 should return "hi" as the first repeated word in the sentence 
 
 ## Link to the deployed site: 
-[Deployed API] (https://iv7qth009d.execute-api.us-east-2.amazonaws.com/repeatedWord)
+[Deployed API](https://iv7qth009d.execute-api.us-east-2.amazonaws.com/repeatedWord)
 
 
 
